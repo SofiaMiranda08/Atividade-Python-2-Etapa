@@ -1,15 +1,13 @@
-from flask import Flask, render_template
-
+from flask import Flask, render_template, request
+from calculadora import calcular
 app = Flask(__name__)
 
-@app.route('/') 
-def home(): 
-    return render_template('home.html')
+@app.route('/', methods= ["GET", "POST"]) 
+def index():
+    if request.method=="POST":
+        return calcular() 
+    return render_template('calculadora.html', etapas = '', resultado = '')
 
-@app.route("/sobre/<nome>")
-def sobre (nome):
-    return f'Olá, {nome}! Bem vindo À página.'
-    
 
 
 if __name__ == '__main__':

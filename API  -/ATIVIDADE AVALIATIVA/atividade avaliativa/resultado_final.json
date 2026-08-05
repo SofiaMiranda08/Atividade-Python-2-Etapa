@@ -1,0 +1,44 @@
+[
+  {
+    "bairro": "Copacabana",
+    "cep": "22041-080",
+    "cidade": "Rio de Janeiro",
+    "complemento": "Apto 301",
+    "data_criacao": "2026-08-05 05:34:01.736905",
+    "endereco_completo": "Rua Anita Garibaldi, 502 — Apto 301 — Copacabana — Rio de Janeiro/RJ — CEP 22041-080",
+    "estado": "RJ",
+    "id": 3,
+    "logradouro": "Rua Anita Garibaldi",
+    "nome": "Ariana Grande",
+    "numero": "502",
+    "profissao": "Cantora"
+  },
+  {
+    "bairro": "Grajaú",
+    "cep": "30431-228",
+    "cidade": "Belo Horizonte",
+    "complemento": "Sem complemento",
+    "data_criacao": "2026-08-05 05:31:09.520325",
+    "endereco_completo": "Rua Santa Cruz, 223 — Sem complemento — Grajaú — Belo Horizonte/MG — CEP 30431-228",
+    "estado": "MG",
+    "id": 1,
+    "logradouro": "Rua Santa Cruz",
+    "nome": "Clebinho",
+    "numero": "223",
+    "profissao": "Professor de Geografia"
+  },
+  {
+    "bairro": "Centro",
+    "cep": "33805-000",
+    "cidade": "Ribeirão das Neves",
+    "complemento": "Sem complemento",
+    "data_criacao": "2026-08-05 05:34:07.133982",
+    "endereco_completo": "Avenida dos Nogueiras, 1 — Sem complemento — Centro — Ribeirão das Neves/MG — CEP 33805-000",
+    "estado": "MG",
+    "id": 4,
+    "logradouro": "Avenida dos Nogueiras",
+    "nome": "Miley Cyrus",
+    "numero": "1",
+    "profissao": "Artista"
+  }
+]

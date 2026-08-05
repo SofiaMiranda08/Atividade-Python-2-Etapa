@@ -1,0 +1,4 @@
+Método: DELETE
+URL: http://127.0.0.1:5000/api/cadastros/2
+Body: nenhum
+
